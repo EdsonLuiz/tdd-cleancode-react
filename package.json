@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:EdsonLuiz/tdd-cleancode-react.git",
   "author": "Edson Luiz Ribeiro Rodrigues <edsonrodrigues@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
