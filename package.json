@@ -1,0 +1,8 @@
+{
+  "name": "clean-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:EdsonLuiz/tdd-cleancode-react.git",
+  "author": "Edson Luiz Ribeiro Rodrigues <edsonrodrigues@icloud.com>",
+  "license": "MIT"
+}
