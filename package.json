@@ -5,6 +5,9 @@
   "repository": "git@github.com:EdsonLuiz/tdd-cleancode-react.git",
   "author": "Edson Luiz Ribeiro Rodrigues <edsonrodrigues@icloud.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.5",
     "@types/node": "^14.0.24",
